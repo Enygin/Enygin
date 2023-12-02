@@ -3,17 +3,17 @@
 ``` python
 # Начнем знакомство
 persona = {
-    name: "Pavel",
-    lastname: "Enygin",
-    location: "Moscow",
-    contact_for_communication: {telegram: "@EnyginPavel"},
-    specialization: ["Data Science", "Data Analysis"],
-    education: [
+    "name": "Pavel",
+    "lastname": "Enygin",
+    "location": "Moscow",
+    "contact_for_communication": {"telegram": "@EnyginPavel"},
+    "specialization": ["Data Science", "Data Analysis"],
+    "education": [
         (2023, "Специалист по Data Science", "Yandex.Practicum"),
         (2023, "Аналитик данных", "Yandex.Practicum")
     ],
-    programming_languages: ["Python", "SQL"],
-    technology_stack: [
+    "programming_languages": ["Python", "SQL"],
+    "technology_stack": [
         ["Pandas", "Numpy", "SkiPy" "Matplotlib", "Seaborn", "Plotly"],
         [
             "Scikit-learn",
@@ -30,4 +30,5 @@ persona = {
         ["Django", "REST API", "HTML", "unittest"]
     ],
 }
+
 ```
