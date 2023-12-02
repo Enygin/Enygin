@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Enygin/Enygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` python
+# Начнем знакомство
+persona = {
+    name: "Pavel",
+    lastname: "Enygin",
+    location: "Moscow",
+    contact_for_communication: {telegram: "@EnyginPavel"},
+    specialization: ["Data Science", "Data Analysis"],
+    programming_languages: ["Python", "SQL"],
+    technology_stack: [
+        ["Pandas", "Numpy", "SkiPy" "Matplotlib", "Seaborn", "Plotly"],
+        [
+            "Scikit-learn",
+            "PySpark",
+            "Pytorch",
+            "Tensorflow",
+            "Keras",
+            "CatBoost",
+            "LightGBM",
+            "XGBoost",
+        ],
+        ["Linux", "Git", "Docker"],
+        ["Tableau", "DataLens", "PowerBI"],
+        ["Django", "REST API", "HTML", "unittest"]
+    ],
+}
+```
