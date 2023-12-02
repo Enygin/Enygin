@@ -10,7 +10,7 @@ persona = {
     "specialization": ["Data Science", "Data Analysis"],
     "education": [
         (2023, "Специалист по Data Science", "Yandex.Practicum"),
-        (2023, "Аналитик данных", "Yandex.Practicum")
+        (2023, "Аналитик данных", "Yandex.Practicum"),
     ],
     "programming_languages": ["Python", "SQL"],
     "technology_stack": [
@@ -27,7 +27,7 @@ persona = {
         ],
         ["Linux", "Git", "Docker"],
         ["Tableau", "DataLens", "PowerBI"],
-        ["Django", "REST API", "HTML", "unittest"]
+        ["Django", "REST API", "HTML", "unittest"],
     ],
 }
 
