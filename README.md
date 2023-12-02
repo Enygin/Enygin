@@ -6,7 +6,10 @@ persona = {
     "name": "Pavel",
     "lastname": "Enygin",
     "location": "Moscow",
-    "contact_for_communication": {"telegram": "@EnyginPavel"},
+    "contact_for_communication": {
+        "telegram": "@EnyginPavel",
+        "email": "enyginpn@yandex.ru",
+    },
     "specialization": ["Data Science", "Data Analysis"],
     "education": [
         (2023, "Специалист по Data Science", "Yandex.Practicum"),
@@ -18,8 +21,8 @@ persona = {
         [
             "Scikit-learn",
             "PySpark",
-            "PyTorch",
-            "TensorFlow",
+            "Pytorch",
+            "Tensorflow",
             "Keras",
             "CatBoost",
             "LightGBM",
