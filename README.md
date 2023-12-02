@@ -18,8 +18,8 @@ persona = {
         [
             "Scikit-learn",
             "PySpark",
-            "Pytorch",
-            "Tensorflow",
+            "PyTorch",
+            "TensorFlow",
             "Keras",
             "CatBoost",
             "LightGBM",
