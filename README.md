@@ -15,12 +15,11 @@ persona = {
         (2023, "Специалист по Data Science", "Yandex.Practicum"),
         (2023, "Аналитик данных", "Yandex.Practicum"),
     ],
-    "programming_languages": ["Python", "SQL"],
+    "programming_languages": ["Python", "SQL", "R"],
     "technology_stack": [
-        ["Pandas", "Numpy", "SkiPy" "Matplotlib", "Seaborn", "Plotly"],
+        ["Pandas", "Numpy", "SkiPy", "Matplotlib", "Seaborn", "Plotly", "PySpark"],
         [
             "Scikit-learn",
-            "PySpark",
             "Pytorch",
             "Tensorflow",
             "Keras",
