@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ``` python
-# Начнем знакомство
-persona = {
+# начнем знакомство
+about_me = {
     "name": "Pavel",
     "lastname": "Enygin",
     "location": "Moscow",
     "contact_for_communication": {
-        "telegram": "@EnyginPavel",
+        "telegram": "@PavelEnygin",
         "email": "enyginpn@yandex.ru",
     },
     "specialization": ["Data Science", "Data Analysis"],
@@ -29,7 +29,8 @@ persona = {
         ],
         ["Linux", "Git", "Docker"],
         ["Tableau", "DataLens", "PowerBI"],
-        ["Django", "REST API", "HTML", "unittest"],
+        ["Django", "REST API", "unittest"],
+        ["HTML", "CSS"]
     ],
 }
 
