@@ -14,7 +14,6 @@ about_me = {
     "technology_stack": [
         ["Django", "HTML", "CSS", "Node.js", "React", "Angular"],    # веб-разработка (фулстек)
         ["Linux", "Git", "Docker"],                                  # разработка и развертывание
-
         [
             "Pandas",                                                # джентельменский набор дата сайентиста
             "Numpy"
