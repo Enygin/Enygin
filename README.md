@@ -10,15 +10,14 @@ about_me = {
         "telegram": "@PavelEnygin",
         "email": "enyginpn@yandex.ru",
     },
-    "specialization": ["Data Science", "Data Analysis"],
-    "education": [
-        (2023, "Специалист по Data Science", "Yandex.Practicum"),
-        (2023, "Аналитик данных", "Yandex.Practicum"),
-    ],
-    "programming_languages": ["Python", "SQL", "R"],
+    "programming_languages": ["Python", "SQL", "R", "JavaScript"],   # языки программирования
     "technology_stack": [
-        ["Pandas", "Numpy", "SkiPy", "Matplotlib", "Seaborn", "Plotly", "PySpark"],
+        ["Django", "HTML", "CSS", "Node.js", "React", "Angular"],    # веб-разработка (фулстек)
+        ["Linux", "Git", "Docker"],                                  # разработка и развертывание
+
         [
+            "Pandas",                                                # джентельменский набор дата сайентиста
+            "Numpy"
             "Scikit-learn",
             "Pytorch",
             "Tensorflow",
@@ -27,10 +26,7 @@ about_me = {
             "LightGBM",
             "XGBoost",
         ],
-        ["Linux", "Git", "Docker"],
-        ["Tableau", "DataLens", "PowerBI"],
-        ["Django", "REST API", "unittest"],
-        ["HTML", "CSS"]
+        ["Tableau", "DataLens", "PowerBI"],                          # BI-инструменты
     ],
 }
 
