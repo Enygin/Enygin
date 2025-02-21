@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 ``` python
-# познакомимся
-about_me = {
-    "name": "Pavel",
-    "lastname": "Enygin",
-    "location": "Moscow",
-
+# мой стек технологий
+my_technology_stack = {
     # языки программирования
     "programming_languages": ["Python", "SQL", "R", "JavaScript"],
 
