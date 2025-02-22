@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ``` python
-# мой стек технологий
+# nice to meet you
 my_technology_stack = {
     # языки программирования
     "programming_languages": ["Python", "SQL", "R", "JavaScript"],
 
     # веб-разработка (фулстек)
     "web-development_stack": [
-        "Django", "Flask",
+        "Django", "Flask", "Rest API", "Fast API"
         "Linux", "Git", "Bash", "Docker",
-        "HTML", "CSS", "Node.js", "React", "Angular"
+        "HTML", "CSS", "Bootstrap", "Node.js", "React", "Angular"
     ],
 
     # джентельменский набор дата сайентиста
