@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ``` python
-# nice to meet you
+# стек технологий, которыми я владею
 my_technology_stack = {
     # языки программирования
     "programming_languages": ["Python", "SQL", "R", "JavaScript"],
@@ -10,7 +10,8 @@ my_technology_stack = {
     "web-development_stack": [
         "Django", "Flask", "Rest API", "Fast API"
         "Linux", "Git", "Bash", "Docker",
-        "HTML", "CSS", "Bootstrap", "Node.js", "React", "Angular"
+        "Node.js", "React",
+        "HTML", "CSS", "Bootstrap", "Angular"
     ],
 
     # джентельменский набор дата сайентиста
