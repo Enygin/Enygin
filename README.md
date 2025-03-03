@@ -4,14 +4,13 @@
 # стек технологий, которыми я владею
 my_technology_stack = {
     # языки программирования
-    "programming_languages": ["Python", "SQL", "R", "JavaScript"],
+    "programming_languages": ["Python", "JavaScript", "SQL", "R"],
 
     # веб-разработка (фулстек)
     "web-development_stack": [
         "Django", "Flask", "Rest API", "Fast API"
-        "Linux", "Git", "Bash", "Docker",
-        "Node.js", "React",
-        "HTML", "CSS", "Bootstrap", "Angular"
+        "Linux", "Git", "Bash", "Docker", "Node.js",
+        "HTML", "CSS", "React", "Bootstrap", "Angular"
     ],
 
     # джентельменский набор дата сайентиста
