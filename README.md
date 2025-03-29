@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ``` python
-# стек технологий, которыми я владею
+
 my_technology_stack = {
     # языки программирования
     "programming_languages": ["Python", "JavaScript", "SQL", "R"],
