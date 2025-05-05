@@ -9,15 +9,16 @@ my_technology_stack = {
     # веб-разработка (фулстек)
     "web-development_stack": [
         "Django", "Flask", "Rest API", "Fast API",
-        "Linux", "Git", "Bash", "Docker", "Node.js", "Webpack", "Gulp",
-        "HTML", "CSS", "React", "Bootstrap", "Angular"
+        "HTML", "CSS", "React", "Bootstrap", "Angular",
+        "Linux", "Git", "Bash", "Docker",
+        "Node.js", "Webpack", "Gulp", "PostCSS",
     ],
 
     # джентельменский набор дата сайентиста
     "data_science_stack": [
         "Pandas", "Numpy", "Seaborn",
         "Scikit-learn", "Tensorflow", "Keras",
-        "CatBoost", "LightGBM", "XGBoost"
+        "CatBoost", "LightGBM", "XGBoost",
     ],
 
     # BI-инструменты
