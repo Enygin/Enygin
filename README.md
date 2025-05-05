@@ -9,7 +9,7 @@ my_technology_stack = {
     # веб-разработка (фулстек)
     "web-development_stack": [
         "Django", "Flask", "Rest API", "Fast API"
-        "Linux", "Git", "Bash", "Docker", "Node.js", "Webpack",
+        "Linux", "Git", "Bash", "Docker", "Node.js", "Webpack", "Gulp",
         "HTML", "CSS", "React", "Bootstrap", "Angular"
     ],
 
