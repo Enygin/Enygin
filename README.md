@@ -11,8 +11,8 @@ my_technology_stack = {
         'Django', 'Flask', 'RestAPI', 'FastAPI', 'unittest',
         'Linux', 'Git', 'Bash', 'Docker',
         'HTML', 'CSS', 'Bootstrap', 'Angular',
-        'React', 'Node.js',
-        'Vue 3', 'Pinia',
+        'React', 'Node.js', 'Next.js',
+        'Vue 3', 'Pinia', 'Nuxt.js',
         'Webpack', 'Gulp', 'PostCSS',
     ],
 
