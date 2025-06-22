@@ -10,8 +10,10 @@ my_technology_stack = {
     'web-development_stack': [
         'Django', 'Flask', 'RestAPI', 'FastAPI', 'unittest',
         'Linux', 'Git', 'Bash', 'Docker',
-        'HTML', 'CSS', 'React', 'Bootstrap', 'Angular',
-        'Node.js', 'Webpack', 'Gulp', 'PostCSS',
+        'HTML', 'CSS', 'Bootstrap', 'Angular',
+        'React', 'Node.js',
+        'Vue 3', 'Pinia',
+        'Webpack', 'Gulp', 'PostCSS',
     ],
 
     # джентельменский набор дата сайентиста
