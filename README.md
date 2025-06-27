@@ -4,7 +4,10 @@
 
 my_technology_stack = {
     # языки программирования
-    'programming_languages': ['Python', 'JavaScript', 'SQL', 'R'],
+    'programming_languages': [
+        'Python', 'SQL'
+        'JavaScript', 'TypeScpipt',
+    ],
 
     # веб-разработка (фулстек)
     'web-development_stack': [
